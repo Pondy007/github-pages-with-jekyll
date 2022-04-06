@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Bonjour sur le blog de Vivine"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# *Bonjour à tous ! Bienvenue sur le blog de Vivine* #
+
+Bienvenue à vous, les petits curieux. Aujourd'hui, je parle de ma montée en compétence sur github.
